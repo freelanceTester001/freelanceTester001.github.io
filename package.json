@@ -2,6 +2,7 @@
   "name": "my-portfolio-app",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://freelanceTester001.github.io/",
   "dependencies": {
     "@tailwindcss/cli": "^4.1.11",
     "@tailwindcss/vite": "^4.1.11",
